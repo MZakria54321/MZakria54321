@@ -7,6 +7,7 @@ I’m a full-stack developer specializing in the MERN stack and passionate about
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%232C3E50.svg?style=flat&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat&logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23646FFF.svg?style=flat&logo=stripe&logoColor=white)
 
