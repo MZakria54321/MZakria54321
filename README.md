@@ -1,4 +1,6 @@
-# MZakria
+## 👋 Hi there, I'm Muhammad Zakria!
+I’m a full-stack developer specializing in the MERN stack and passionate about building scalable, user-friendly applications.
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
