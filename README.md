@@ -45,4 +45,3 @@ I’m a full-stack developer specializing in the MERN stack and passionate about
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230062B1.svg?style=flat\&logo=coursera\&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-%2305478A.svg?style=flat\&logo=ibm\&logoColor=white)
-
