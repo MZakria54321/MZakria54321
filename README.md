@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Muhammad Zakria!
 
-I build scalable web applications using MERN and PERN stacks with Next.js, NestJS, and AWS cloud, and Mobile apps using React Native. I help businesses launch fast, integrate APIs, and scale with secure, production-ready solutions.
+I’m a Full-Stack Developer and DevOps Engineer focused on building scalable, efficient web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy creating clean, reliable solutions and continuously improving how applications are built and deployed.
 
-As a Full Stack Developer, I deliver end-to-end solutions across the MERN stack (MongoDB, Express.js, React, Node.js) and PERN stack (PostgreSQL, Express.js, React, Node.js). My focus is on building scalable, secure, and optimized applications that deliver optimal performance.
+Lately, I’ve been sharpening my DevOps skills around CI/CD, automation, and deployment, while also working on Data Structures and Algorithms to strengthen my problem-solving and optimize performance.
 
 ## 🛠️ Skills
 
